@@ -1,3 +1,0 @@
-"Nombre: Francisco 
-Apellido: Lozano 
-Correo: franlozok@gmail.com" 
